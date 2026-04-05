@@ -2,11 +2,14 @@
 
 ## Description
 
-This repository contains a Power Bi dashboard of an E-commerce store to answer questions about the data. The insights of the dashboard can be found in the results.txt file.  This repository can b<img width="992" height="558" alt="246595953-5151c585-882b-4db4-b324-a8cc63256fb4" src="https://github.com/user-attachments/assets/cb638318-d140-4987-9ca6-aa4f3ef147b3" />
+This repository contains a Power Bi dashboard of an E-commerce store to answer questions about the data. The insights of the dashboard can be found in the files uploaded.  
 e used as a starting point for anyone who wants to learn how to use Power Bi to analyze data.
 <!--Analyzed E-commerce store data. Created an interactive dashboard using Power BI.-->
 
 ## Screenshot
+
+<img width="1343" height="751" alt="Screenshot 2026-04-05 170406" src="https://github.com/user-attachments/assets/2eae826a-14c3-416b-a5ed-2e44094a75f5" />
+
 
 
 ## Installation
@@ -27,9 +30,6 @@ To add a screenshot, create an `assets/images` folder in your repository and upl
 
 * Microsoft Power BI
 
-## Credits
-
-Throughout the development of this project, I have sought inspiration from a pivotal video source: https://youtu.be/6cV3OwFrOkk
 
 ## Badges
 
